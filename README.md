@@ -17,23 +17,6 @@ This project is a comprehensive demo and learning resource for Selenium WebDrive
 - Maven project structure for easy dependency management
 - Sample test cases and application code
 
-## Project Structure
-
-```
-src/
-  main/
-    java/
-      com/qa/codetestfactory/
-        App.java                  # Main application entry point
-        BrokenLinks.java          # Utility for detecting broken links
-        BrokenLinksViaThread.java # Multi-threaded broken link checker
-  test/
-    java/
-      com/qa/codetestfactory/
-        AppTest.java              # Unit and integration tests
-pom.xml                          # Maven configuration file
-README.md                        # Project documentation
-```
 
 ## Getting Started
 
