@@ -3,7 +3,9 @@
 
 This GitHub Repo is for learning and demonstration purposes.
 
-![Selenium Logo](src/support/images/selenium_logo.svg)
+<a href="https://github.com/codetestfactory-sohail/selenium-learnings">
+  <img src="src/support/images/selenium_logo.svg" alt="Selenium Logo" width="400" height="80">
+</a>
 
 
 
@@ -47,7 +49,10 @@ Authored by [Sohail](https://github.com/codetestfactory-sohail)
 
 ## About the Author
 
-![CodeTestFactory-Sohail-Selenium-Learnings](src/support/images/ctf_logo.png)
+<a href="https://github.com/codetestfactory-sohail/selenium-learnings">
+  <img src="src/support/images/ctf_logo.png" alt="Selenium Logo" width="160" height="160">
+</a>
+
 
 **Sohail Mohammed** - *Initial work* - [codetestfactory-sohail](https://github.com/codetestfactory-sohail)
 
