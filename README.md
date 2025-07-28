@@ -1,7 +1,9 @@
 
 # Selenium-Learnings
 
-Selenium Java Learning based Demo.
+This GitHub Repo is for learning and demonstration purposes.
+
+![Selenium Logo](src\support\images\selenium_logo.svg)
 
 
 
@@ -37,11 +39,18 @@ This project is a comprehensive demo and learning resource for Selenium WebDrive
 
 ## License
 
-This project is for learning and demonstration purposes.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Authored by [Sohail](https://github.com/codetestfactory-sohail)
 
 ---
 
 ## About the Author
+
+![CodeTestFactory-Sohail-Selenium-Learnings](src\support\images\ctf_logo.png)
+
+**Sohail Mohammed** - *Initial work* - [codetestfactory-sohail](https://github.com/codetestfactory-sohail)
+
 
 Welcome to my corner of the internet! I've spent my career as a QA architect, and now I'm diving headfirst into the exciting field of AI. I share my learnings, thoughts, and discoveries.
 
@@ -54,3 +63,5 @@ Thank you for being a part of this journey!
 - [DEV.to](https://dev.to/codetestfactory)
 - [Twitter/X](https://x.com/codetestfactory)
 - [Buy me a coffee](https://buymeacoffee.com/sohail056)
+
+
