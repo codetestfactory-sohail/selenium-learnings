@@ -49,7 +49,7 @@ Authored by [Sohail](https://github.com/codetestfactory-sohail)
 
 ## About the Author
 
-<a href="https://github.com/codetestfactory-sohail/selenium-learnings">
+<a href="https://github.com/codetestfactory-sohail">
   <img src="src/support/images/ctf_logo.png" alt="Selenium Logo" width="160" height="160">
 </a>
 
