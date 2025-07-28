@@ -3,7 +3,7 @@
 
 This GitHub Repo is for learning and demonstration purposes.
 
-![Selenium Logo](src\support\images\selenium_logo.svg)
+![Selenium Logo](src/support/images/selenium_logo.svg)
 
 
 
@@ -47,7 +47,7 @@ Authored by [Sohail](https://github.com/codetestfactory-sohail)
 
 ## About the Author
 
-![CodeTestFactory-Sohail-Selenium-Learnings](src\support\images\ctf_logo.png)
+![CodeTestFactory-Sohail-Selenium-Learnings](src/support/images/ctf_logo.png)
 
 **Sohail Mohammed** - *Initial work* - [codetestfactory-sohail](https://github.com/codetestfactory-sohail)
 
